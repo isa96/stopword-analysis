@@ -1,7 +1,7 @@
 # stopword-analysis
 Stopword Analysis on Text Mining - With dataset from Kaggle: https://www.kaggle.com/nltkdata/web-text-corpus
 
-**Conclusion**
+**Conclusion**: 
 Dari percobaan studi kasus ini didapatkan bahwa, 
 map yang dihasilkan dari tiap metode baik menggunakan nltk, mi & zipf law rendah, 
 hal ini dikarenakan corpus yang digunakan memiliki jumlah kata yang sedikit di setiap dokumennya. 
