@@ -1,0 +1,39 @@
+{
+    "description": "This is a collection of diverse, contemporary text genres, collected by scraping publicly accessible archives of web postings. This data is disseminated in preference to publishing URLs for individuals to download and clean up (the usual model for web corpora).",
+    "subcorpora": {
+        "firefox": {
+            "description": "Firefox support forum",
+            "original_file": "firefox.txt"
+        },
+        "grail": {
+            "description": "Movie script from Monty Python and the Holy Grail",
+            "original_file": "grail.txt",
+            "source": "http://www.textfiles.com/media/SCRIPTS/grail",
+            "year": "2006"
+        },
+        "overheard": {
+            "description": "Overheard in New York (partly censored)",
+            "original_file": "overheard.txt",
+            "source": "http://www.overheardinnewyork.com/",
+            "year": "2006"
+        },
+        "pirate": {
+            "description": "Movie script from Pirates of the Caribbean: Dead Man's Chest",
+            "original_file": "pirate.txt",
+            "source": "http://www.overheardinnewyork.com/",
+            "year": "2006"
+        },
+        "singles": {
+            "description": "Singles ads",
+            "original_file": "singles.txt",
+            "source": "http://search.classifieds.news.com.au/"
+        },
+        "wine": {
+            "description": "Fine Wine Diary",
+            "original_file": "wine.txt",
+            "source": "http://www.finewinediary.com/",
+            "year": "2005-6"
+        }
+    },
+    "title": "Web Text Corpus"
+}
